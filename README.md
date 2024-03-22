@@ -1,6 +1,5 @@
 - Hi, I'm Kaya. 
 - I'm currently learning Programming.
-- I am securing a position as a back-end developer.
 - 📫 contatc: agmra97@gmail.com
 
 <!---
