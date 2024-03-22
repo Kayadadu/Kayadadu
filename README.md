@@ -1,5 +1,3 @@
-- Hi, I'm Kaya. 
-- I'm currently learning Programming.
 - 📫 contatc: agmra97@gmail.com
 
 <!---
