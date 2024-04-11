@@ -1,4 +1,4 @@
-- 📫 contatc: agmra97@gmail.com
+- 📫 contatc: yeor608@knu.ac.kr
 
 <!---
 Kayasummer/Kayasummer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
